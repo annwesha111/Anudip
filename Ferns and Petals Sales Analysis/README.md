@@ -1,4 +1,5 @@
 Sales Analysis Dashboard – Ferns & Petals (FNP)
+
 Developed an interactive dashboard to analyze sales performance, customer behavior, and product trends for Ferns & Petals across multiple occasions in 2023. 
 The analysis covered key metrics such as total revenue, average order-to-delivery time, and monthly sales patterns. Identified top-performing products and 
 cities contributing to higher order volumes, along with insights into customer spending behavior. Evaluated the impact of order quantity on delivery time
