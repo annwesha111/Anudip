@@ -1,0 +1,59 @@
+Consumer Complaint Analysis Dashboard
+
+Overview:
+
+This project analyzes 63K+ consumer complaints across financial products, issues, and submission channels.
+The goal is to identify key problem areas and improve customer service performance using data-driven insights.
+
+Objectives:
+Identify top complaint issues and high-risk products
+Analyze complaint trends over time
+Evaluate response efficiency (timely response & resolution time)
+Understand customer behavior across submission channels
+
+Dataset:
+Consumer complaint dataset (~63K records)
+Includes fields: Product, Issue, State, Submitted Via, Response, Dates
+
+Dashboards:
+🔹 Dashboard 1: Executive Overview
+Total Complaints, YTD, MoM Growth
+Timely Response %, Avg Resolution Days
+Complaint trends over time
+Top products & states
+Complaint status breakdown
+
+🔹 Dashboard 2: Issue Analysis
+Top 10 Customer Complaint Issues
+Issues by Product
+Complaints by Submission Channel
+Avg Resolution Time by Product
+
+Key Insights:
+Managing an account is the most common complaint
+Checking/Savings accounts generate the highest complaints
+Most complaints are submitted via the Web channel
+Some products (e.g., loans/mortgages) have longer resolution times
+
+Tools & Skills Used
+Power BI
+DAX (KPIs, YTD, MoM Growth)
+Data Modeling
+Data Visualization
+Interactive Filters (Slicers, Top N)
+
+Business Impact:
+Helps identify major customer pain points
+Improves decision-making for service optimization
+Supports faster complaint resolution strategies
+
+
+
+
+
+
+
+
+
+
+
